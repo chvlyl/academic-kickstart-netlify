@@ -13,7 +13,7 @@ role = "Data Scientist"
 organizations = [ { name = "Dana-Farber Cancer Institute", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "chvlyl@gmail.com"
