@@ -1,44 +1,47 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "(Eric) Zhang Chen"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Data Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Dana-Farber Cancer Institute", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "chvlyl@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Machine Learning",
+  "Deep Learning",
+  "Biostatistics",
+  "Biomedical Image",
+  "Genomics",
+  "EHR"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Bioinformatics"
+  institution = "University of Pennsylvania, USA"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MPhil in Bioinformatics"
+  institution = "The Chinese University of Hong Kong, Hong Kong"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BS in Biology"
+  institution = "University of Science and Technology of China, China"
   year = 2008
 
 # Social/Academic Networking
@@ -67,17 +70,17 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/ChvlylChen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=7mrZzpYAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/chvlyl"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +91,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a data scientist at Dana-Farber Cancer Institute. My work involves analyzing patient Electronic Health Records (EHR) data, image data, clinical text data as well as hospital operational data using advanced machine learning and statistical methods to improve the healthcare in the hospital. I’m particularly interested in deep learning, natural language processing and image analysis. I have successfully applied those techniques to the EHR data, surgery note text data and eye image data and solved real-world problems. I received my Ph.D. from University of Pennsylvania. My PhD research mainly focused on statistical methods for metagenomic data anlaysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I’m also interested in financial investments and passed the CFA (Chartered Financial Analyst) Level 1 exam.
