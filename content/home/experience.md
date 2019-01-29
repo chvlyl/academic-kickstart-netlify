@@ -45,32 +45,32 @@ date_format = "January 2006"
   date_end = "2018-05-20"
   description = """"""
 
-[[experience]]
-  title = "Research Assistant"
-  company = "Department of Biostatistics, University of Pennsylvania"
-  company_url = ""
-  location = "Philadelphia, USA"
-  date_start = "2011-09-01"
-  date_end = "2016-06-01"
-  description = """"""
+#[[experience]]
+#  title = "Research Assistant"
+#  company = "Department of Biostatistics, University of Pennsylvania"
+#  company_url = ""
+#  location = "Philadelphia, USA"
+#  date_start = "2011-09-01"
+#  date_end = "2016-06-01"
+#  description = """"""
 
-[[experience]]
-  title = "Research Assistant"
-  company = "Li Ka Shing Institute of Health Science, The Chinese University of Hong Kong"
-  company_url = ""
-  location = "Hong Kong"
-  date_start = "2009-09-01"
-  date_end = "2011-07-01"
-  description = """"""
+#[[experience]]
+#  title = "Research Assistant"
+#  company = "Li Ka Shing Institute of Health Science, The Chinese University of Hong Kong"
+#  company_url = ""
+#  location = "Hong Kong"
+#  date_start = "2009-09-01"
+#  date_end = "2011-07-01"
+#  description = """"""
 
-[[experience]]
-  title = "Intern"
-  company = "Chinese Academy of Sciences"
-  company_url = ""
-  location = "Beijing, China"
-  date_start = "2007-07-01"
-  date_end = "2009-09-01"
-  description = """"""
+#[[experience]]
+#  title = "Intern"
+#  company = "Chinese Academy of Sciences"
+#  company_url = ""
+#  location = "Beijing, China"
+#  date_start = "2007-07-01"
+#  date_end = "2009-09-01"
+#  description = """"""
 
 
 
