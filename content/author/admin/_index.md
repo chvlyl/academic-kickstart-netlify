@@ -82,6 +82,11 @@ interests = [
   icon_pack = "fab"
   link = "https://github.com/chvlyl"
 
+ [[social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/eric-zhang-chen-a31bab16/"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -91,6 +96,6 @@ interests = [
 
 +++
 
-I’m a data scientist at Dana-Farber Cancer Institute. My work involves analyzing patient Electronic Health Records (EHR) data, image data, clinical text data as well as hospital operational data using advanced machine learning and statistical methods to improve the healthcare in the hospital. I’m particularly interested in deep learning, natural language processing and image analysis. I have successfully applied those techniques to the EHR data, surgery note text data and eye image data and solved real-world problems. I received my Ph.D. from University of Pennsylvania. My PhD research mainly focused on statistical methods for metagenomic data anlaysis. 
+I’m a data scientist at Dana-Farber Cancer Institute. My research focuses on developing statistical and machine learning models for healthcare data such as patient Electronic Health Records (EHR) data, biomedical image data, clinical text data, genomics data as well as hospital operational data. I’m particularly interested in deep learning, natural language processing and image analysis. My passion is to apply those techniques to solve many real-world problems in healthcare.  
 
 I’m also interested in financial investments and passed the CFA (Chartered Financial Analyst) Level 1 exam.
