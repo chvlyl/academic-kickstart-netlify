@@ -96,6 +96,6 @@ interests = [
 
 +++
 
-I’m a data scientist at Dana-Farber Cancer Institute. My research focuses on developing statistical and machine learning models for healthcare data such as patient Electronic Health Records (EHR) data, biomedical image data, clinical text data, genomics data as well as hospital operational data. I’m particularly interested in deep learning, natural language processing and image analysis. My passion is to apply those techniques to solve many real-world problems in healthcare.  
+I’m a data scientist at Dana-Farber Cancer Institute. My research focuses on developing statistical and machine learning models for healthcare data such as patient Electronic Health Records (EHR) data, biomedical image data, clinical text data, genomics data as well as hospital operational data. I’m particularly interested in deep learning, natural language processing and image analysis. My passion is to apply those techniques to solve real-world problems in healthcare.  
 
 I’m also interested in financial investments and passed the CFA (Chartered Financial Analyst) Level 1 exam.
