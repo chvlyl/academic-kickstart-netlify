@@ -19,27 +19,59 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Expert Research Scientist"
+  company = "United Imaging Intelligence"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Boston, USA"
+  date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Scientist"
+  company = "Dana-Farber Cancer Institute"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Boston, USA"
+  date_start = "2018-05-21"
+  date_end = "2019-01-31"
+  description = """"""
+
+[[experience]]
+  title = "Data Scientist"
+  company = "Thomas Jefferson Hospital"
+  company_url = ""
+  location = "Philadelphia, USA"
+  date_start = "2016-07-21"
+  date_end = "2018-05-20"
+  description = """"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Biostatistics, University of Pennsylvania"
+  company_url = ""
+  location = "Philadelphia, USA"
+  date_start = "2011-09-01"
+  date_end = "2016-06-01"
+  description = """"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Li Ka Shing Institute of Health Science, The Chinese University of Hong Kong"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2009-09-01"
+  date_end = "2011-07-01"
+  description = """"""
+
+[[experience]]
+  title = "Intern"
+  company = "Chinese Academy of Sciences"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2007-07-01"
+  date_end = "2009-09-01"
+  description = """"""
+
+
 
 +++
