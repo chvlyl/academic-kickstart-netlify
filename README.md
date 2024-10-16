@@ -1,3 +1,8 @@
+# How to update the website
+1. Modify the content in this repo
+2. Go to `https://app.netlify.com/` and choose `Deploy` then `Trigger deploy`
+3. The DNS is managed by netlify
+
 # Academic Kickstart
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
