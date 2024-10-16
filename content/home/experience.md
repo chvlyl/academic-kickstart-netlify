@@ -34,7 +34,7 @@ date_format = "2006"
   company_url = ""
   location = "Boston, USA"
   date_start = "2023"
-  date_end = ""
+  date_end = "2024"
   description = """"""
   
 [[experience]]
