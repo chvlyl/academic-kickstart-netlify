@@ -96,6 +96,6 @@ interests = [
 
 +++
 
-I’m a data scientist at Dana-Farber Cancer Institute. My research focuses on developing statistical and machine learning models for healthcare data such as patient Electronic Health Records (EHR) data, biomedical image data, clinical text data, genomics data as well as hospital operational data. I’m particularly interested in deep learning, natural language processing and image analysis. My passion is to apply those techniques to solve real-world problems in healthcare.  
+I'm a Senior Expert Research Scientist at UII America. I previously worked as data scientists at Thomas Jefferson University Hospital and Dana-Farber Cancer Institute. My work involves devleloping deep learning modesls for Electronic Health Records (EHR), medical images, clinical text as well as hospital operational data. I received my Ph.D. in Bioinformatics from University of Pennsylvania. I have over 50 publications with over 5000 citations.  
 
 I’m also interested in financial investments and passed the CFA (Chartered Financial Analyst) Level 1 exam.
