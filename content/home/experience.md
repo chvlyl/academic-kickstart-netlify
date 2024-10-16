@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -29,12 +29,21 @@ date_format = "January 2006"
 #  description = """"""
 
 [[experience]]
-  title = "Data Scientist"
-  company = "Dana-Farber Cancer Institute"
+  title = "Senior Expert Research Scientist"
+  company = "UII America"
   company_url = ""
   location = "Boston, USA"
-  date_start = "2018-05-21"
-  date_end = "2019-01-31"
+  date_start = "2023"
+  date_end = "Current"
+  description = """"""
+  
+[[experience]]
+  title = "Expert Research Scientist"
+  company = "UII America"
+  company_url = ""
+  location = "Boston, USA"
+  date_start = "2019"
+  date_end = "2023"
   description = """"""
 
 [[experience]]
@@ -42,8 +51,17 @@ date_format = "January 2006"
   company = "Thomas Jefferson Hospital"
   company_url = ""
   location = "Philadelphia, USA"
-  date_start = "2016-07-21"
-  date_end = "2018-05-20"
+  date_start = "2016"
+  date_end = "2018"
+  description = """"""
+  
+[[experience]]
+  title = "Data Scientist"
+  company = "Thomas Jefferson Hospital"
+  company_url = ""
+  location = "Philadelphia, USA"
+  date_start = "2016"
+  date_end = "2018"
   description = """"""
 
 #[[experience]]
