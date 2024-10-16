@@ -6,11 +6,11 @@ name = "(Eric) Zhang Chen"
 superuser = true
 
 # Role/position
-role = "Data Scientist"
+# role = "Senior Expert Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Dana-Farber Cancer Institute", url = "" } ]
+# organizations = [ { name = "UII America", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -20,10 +20,10 @@ email = "chvlyl@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Machine Learning",
+  "LLM",
   "Deep Learning",
   "Biostatistics",
-  "Biomedical Image",
+  "Biomedical image",
   "Genomics",
   "EHR"
 ]
