@@ -34,7 +34,7 @@ date_format = "2006"
   company_url = ""
   location = "Boston, USA"
   date_start = "2023-01-01"
-  date_end = "2024-01-01"
+  date_end = "Current"
   description = """"""
   
 [[experience]]
@@ -45,14 +45,14 @@ date_format = "2006"
   date_start = "2019-01-01"
   date_end = "2023-01-01"
   description = """"""
-
+  
 [[experience]]
   title = "Data Scientist"
-  company = "Thomas Jefferson Hospital"
+  company = "Dana-Farber Cancer Institute"
   company_url = ""
-  location = "Philadelphia, USA"
-  date_start = "2016-01-01"
-  date_end = "2018-01-01"
+  location = "Boston, USA"
+  date_start = "2018-01-01"
+  date_end = "2019-01-01"
   description = """"""
   
 [[experience]]
