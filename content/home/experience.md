@@ -33,8 +33,8 @@ date_format = "2006"
   company = "UII America"
   company_url = ""
   location = "Boston, USA"
-  date_start = "2023"
-  date_end = "2024"
+  date_start = "2023-01-01"
+  date_end = "2024-01-01"
   description = """"""
   
 [[experience]]
@@ -42,8 +42,8 @@ date_format = "2006"
   company = "UII America"
   company_url = ""
   location = "Boston, USA"
-  date_start = "2019"
-  date_end = "2023"
+  date_start = "2019-01-01"
+  date_end = "2023-01-01"
   description = """"""
 
 [[experience]]
@@ -51,8 +51,8 @@ date_format = "2006"
   company = "Thomas Jefferson Hospital"
   company_url = ""
   location = "Philadelphia, USA"
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "2016-01-01"
+  date_end = "2018-01-01"
   description = """"""
   
 [[experience]]
@@ -60,8 +60,8 @@ date_format = "2006"
   company = "Thomas Jefferson Hospital"
   company_url = ""
   location = "Philadelphia, USA"
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "2016-01-01"
+  date_end = "2018-01-01"
   description = """"""
 
 #[[experience]]
