@@ -79,7 +79,7 @@ const socialIcons: Record<string, string> = {
         <ul class="education">
           {profile.education.map((course) => (
             <li>
-              <div class="education-title"><h3>{course.degree}</h3><span>{course.year}</span></div>
+              <div class="education-title"><h3>{course.degree}</h3><span>{course.startYear} – {course.year}</span></div>
               <p>{course.institution}</p>
             </li>
           ))}

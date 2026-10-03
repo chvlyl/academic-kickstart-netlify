@@ -34,17 +34,20 @@
     {
       "degree": "PhD in Bioinformatics",
       "institution": "University of Pennsylvania, USA",
-      "year": 2016
+      "year": 2016,
+      "startYear": 2011
     },
     {
       "degree": "MPhil in Bioinformatics",
       "institution": "The Chinese University of Hong Kong, Hong Kong",
-      "year": 2011
+      "year": 2011,
+      "startYear": 2009
     },
     {
       "degree": "BS in Biology",
       "institution": "University of Science and Technology of China, China",
-      "year": 2008
+      "year": 2008,
+      "startYear": 2004
     }
   ],
   "experience": [
