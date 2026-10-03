@@ -8,6 +8,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
 const canonical = new URL(base, Astro.site);
 const description = 'Eric Zhang Chen is a research scientist working on deep learning, biomedical imaging, electronic health records, and bioinformatics.';
 const scholar = profile.links.find((link) => link.label === 'Google Scholar')!;
+const publicationYears = [...new Set(publications.map((paper) => paper.date.slice(0, 4)))].sort().reverse();
 const socialIcons: Record<string, string> = {
   Email: 'envelope',
   'Google Scholar': 'google-scholar',
@@ -42,7 +43,7 @@ const socialIcons: Record<string, string> = {
           <div class="introduction-text">
             <h1 id="name">{profile.name}</h1>
             <div class="biography">
-              {profile.biography.map((paragraph) => <p>{paragraph}</p>)}
+              {profile.biography.map((paragraph, index) => <p class:list={{ lead: index === 0 }}>{paragraph}</p>)}
             </div>
             <ul class="social-links" aria-label="Contact and profiles">
               {profile.links.map((link) => (
@@ -63,12 +64,11 @@ const socialIcons: Record<string, string> = {
         <ol class="experience-list">
           {profile.experience.map((job) => (
             <li class="experience">
-              <p class="experience-period">{job.start} – {job.end || 'Present'}</p>
               <div>
                 <h3>{job.title}</h3>
                 <p class="company">{job.company}</p>
+                <p class="experience-meta"><span>{job.start.slice(-4)} – {job.end ? job.end.slice(-4) : 'Present'}</span><span>{job.location}</span></p>
               </div>
-              <p class="location">{job.location}</p>
             </li>
           ))}
         </ol>
@@ -91,9 +91,14 @@ const socialIcons: Record<string, string> = {
           <h2 id="publications-heading">Publications</h2>
           <a class="scholar-link" href={scholar.url}>More on Google Scholar</a>
         </div>
-        <ol class="publication-list">
-          {publications.map((paper) => <Publication paper={paper} />)}
-        </ol>
+        {publicationYears.map((year) => (
+          <section class="publication-group" aria-labelledby={`year-${year || 'undated'}`}>
+            <h3 class="publication-year-heading" id={`year-${year || 'undated'}`}>{year || 'Undated'}</h3>
+            <ol class="publication-list">
+              {publications.filter((paper) => paper.date.slice(0, 4) === year).map((paper) => <Publication paper={paper} />)}
+            </ol>
+          </section>
+        ))}
       </section>
     </main>
 
