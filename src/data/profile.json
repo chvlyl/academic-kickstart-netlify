@@ -1,0 +1,87 @@
+{
+  "name": "(Eric) Zhang Chen",
+  "role": "Director of AI and Machine Learning",
+  "organization": "BeOne Medicines",
+  "email": "chvlyl@gmail.com",
+  "biography": [
+    "I’m an AI researcher and builder, currently Director of AI and Machine Learning at BeOne Medicines. My work connects AI research with practical applications in healthcare and biomedicine.",
+    "I’ve built and deployed AI products in hospitals and medical devices, authored approximately 50 peer-reviewed papers, and hold multiple US patents. I’ve also mentored over 20 interns, contributing to research publications and product features.",
+    "My technical interests include language and multimodal models, AI agents, retrieval-augmented generation, and diffusion models. I received my Ph.D. in Bioinformatics from the University of Pennsylvania."
+  ],
+  "links": [
+    {
+      "label": "Email",
+      "url": "mailto:chvlyl@gmail.com"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=7mrZzpYAAAAJ&hl=en"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/chvlyl"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eric-zhang-chen-a31bab16/"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://twitter.com/ChvlylChen"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD in Bioinformatics",
+      "institution": "University of Pennsylvania, USA",
+      "year": 2016
+    },
+    {
+      "degree": "MPhil in Bioinformatics",
+      "institution": "The Chinese University of Hong Kong, Hong Kong",
+      "year": 2011
+    },
+    {
+      "degree": "BS in Biology",
+      "institution": "University of Science and Technology of China, China",
+      "year": 2008
+    }
+  ],
+  "experience": [
+    {
+      "title": "Director of AI and Machine Learning",
+      "company": "BeOne Medicines",
+      "location": "Boston, USA",
+      "start": "Aug 2025",
+      "end": ""
+    },
+    {
+      "title": "Senior Expert Research Scientist",
+      "company": "United Imaging Intelligence",
+      "location": "Boston, USA",
+      "start": "Feb 2023",
+      "end": "Aug 2025"
+    },
+    {
+      "title": "Expert Research Scientist",
+      "company": "United Imaging Intelligence",
+      "location": "Boston, USA",
+      "start": "Feb 2019",
+      "end": "Feb 2023"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Dana-Farber Cancer Institute",
+      "location": "Boston, USA",
+      "start": "May 2018",
+      "end": "Feb 2019"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Thomas Jefferson University Hospital",
+      "location": "Philadelphia, USA",
+      "start": "Jul 2016",
+      "end": "May 2018"
+    }
+  ]
+}

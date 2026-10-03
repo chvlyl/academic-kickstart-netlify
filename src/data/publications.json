@@ -1,0 +1,1844 @@
+[
+  {
+    "slug": "scholar-euqcxrtrnyec",
+    "title": "Adapting vision foundation models for real-time ultrasound image segmentation",
+    "authors": [
+      "Xiaoran Zhang",
+      "Eric Z Chen",
+      "Lin Zhao",
+      "Xiao Chen",
+      "Yikang Liu",
+      "Boris Maihe",
+      "James S Duncan",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2025-09-20",
+    "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-032-04971-1_3",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:EUQCXRtRnyEC",
+        "date": "2025/9/20",
+        "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-a0obverwelwc",
+    "title": "Retrieval-augmented few-shot medical image segmentation with foundation models",
+    "authors": [
+      "Lin Zhao",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Yikang Liu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2025-06-03",
+    "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/11021654/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:a0OBvERweLwC",
+        "date": "2025/6/3",
+        "journal": "IEEE Transactions on Neural Networks and Learning Systems"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-f2iysw72cvmc",
+    "title": "Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy",
+    "authors": [
+      "Shaoyan Pan",
+      "Yikang Liu",
+      "Lin Zhao",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2025-04-11",
+    "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "paperUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/32675",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:f2IySw72cVMC",
+        "date": "2025/4/11",
+        "journal": "Proceedings of the AAAI Conference on Artificial Intelligence"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-abg-dnofyzgc",
+    "title": "DiffDenoise: Self-Supervised Medical Image Denoising with Conditional Diffusion Models",
+    "authors": [
+      "Basar Demir",
+      "Yikang Liu",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Lin Zhao",
+      "Boris Mailhe",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2025-03-31",
+    "journal": "arXiv preprint arXiv:2504.00264",
+    "paperUrl": "https://arxiv.org/abs/2504.00264",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:abG-DnoFyZgC",
+        "date": "2025/3/31",
+        "journal": "arXiv preprint arXiv:2504.00264"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-b0m2c_1wbruc",
+    "title": "Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography",
+    "authors": [
+      "Lin Zhao",
+      "Xin Yu",
+      "Yikang Liu",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2025-03-31",
+    "journal": "arXiv preprint arXiv:2504.00191",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/11208162/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:b0M2c_1WBrUC",
+        "date": "2025/3/31",
+        "journal": "arXiv preprint arXiv:2504.00191"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-xtriw3gofmkc",
+    "title": "No Annotate Again (NAA): Realistic Image and Annotation Synthesis for Multi-Contrast MRI through Diffusion without Paired Data",
+    "authors": [
+      "Xiao Chen",
+      "Chen Li",
+      "Eric Zhang Chen",
+      "Yikang Liu",
+      "Lin Zhao",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2025",
+    "journal": "ISMRM Annual Meeting, Abstract 3984",
+    "paperUrl": "https://archive.ismrm.org/2025/3984_2lq1cKROE.html",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:xtRiw3GOFMkC",
+        "date": "",
+        "journal": ""
+      },
+      {
+        "url": "https://archive.ismrm.org/2025/3984_2lq1cKROE.html",
+        "date": "2025",
+        "journal": "ISMRM Annual Meeting, Abstract 3984"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-pyw8ca7w8n0c",
+    "title": "SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation",
+    "authors": [
+      "Junda Wang",
+      "Yujan Ting",
+      "Eric Z Chen",
+      "Hieu Tran",
+      "Hong Yu",
+      "Weijing Huang",
+      "Terrence Chen"
+    ],
+    "date": "2024-10-19",
+    "journal": "arXiv preprint arXiv:2410.14948",
+    "paperUrl": "https://arxiv.org/abs/2410.14948",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:pyW8ca7W8N0C",
+        "date": "2024/10/19",
+        "journal": "arXiv preprint arXiv:2410.14948"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-d03ik_w7-qyc",
+    "title": "Auxiliary Input in Training: Incorporating Catheter Features into Deep Learning Models for ECG-Free Dynamic Coronary Roadmapping",
+    "authors": [
+      "Yikang Liu",
+      "Lin Zhao",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2024-10-03",
+    "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-72089-5_7",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:D03iK_w7-QYC",
+        "date": "2024/10/3",
+        "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-za6ifvuqevqc",
+    "title": "Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI",
+    "authors": [
+      "Shihan Qiu",
+      "Shaoyan Pan",
+      "Yikang Liu",
+      "Lin Zhao",
+      "Jian Xu",
+      "Qi Liu",
+      "Terrence Chen",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2024-03-13",
+    "journal": "arXiv preprint arXiv:2403.08758",
+    "paperUrl": "https://arxiv.org/abs/2403.08758",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:zA6iFVUQeVQC",
+        "date": "2024/3/13",
+        "journal": "arXiv preprint arXiv:2403.08758"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-fpk4n6bv_jec",
+    "title": "Federated Data Model",
+    "authors": [
+      "Xiao Chen",
+      "Shunan Zhang",
+      "Eric Z Chen",
+      "Yikang Liu",
+      "Lin Zhao",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2024-03-13",
+    "journal": "arXiv preprint arXiv:2403.08887",
+    "paperUrl": "https://arxiv.org/abs/2403.08887",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:fPk4N6BV_jEC",
+        "date": "2024/3/13",
+        "journal": "arXiv preprint arXiv:2403.08887"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-u_35rykgdlwc",
+    "title": "Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI",
+    "authors": [
+      "Shihan Qiu",
+      "Shaoyan Pan",
+      "Yikang Liu",
+      "Lin Zhao",
+      "Jian Xu",
+      "Qi Liu",
+      "Terrence Chen",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2024-03-13",
+    "journal": "arXiv preprint arXiv:2403.08749",
+    "paperUrl": "https://arxiv.org/abs/2403.08749",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:u_35RYKgDlwC",
+        "date": "2024/3/13",
+        "journal": "arXiv preprint arXiv:2403.08749"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-ro6llkc54ncc",
+    "title": "Enhancing Cardiac MRI Segmentation via Classifier-Guided Two-Stage Network and All-Slice Information Fusion Transformer",
+    "authors": [
+      "Zihao Chen",
+      "Xiao Chen",
+      "Yikang Liu",
+      "Eric Z Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2023-10-08",
+    "journal": "International Workshop on Applications of Medical AI",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-47076-9_15",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:rO6llkc54NcC",
+        "date": "2023/10/8",
+        "journal": "International Workshop on Applications of Medical AI"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-zho1mcvdvxmc",
+    "title": "Computationally Efficient 3D MRI Reconstruction with Adaptive MLP",
+    "authors": [
+      "Eric Z Chen",
+      "Chi Zhang",
+      "Xiao Chen",
+      "Yikang Liu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2023-10-01",
+    "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-43999-5_19",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:ZHo1McVdvXMC",
+        "date": "2023/10/1",
+        "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-3s1wt3wchbgc",
+    "title": "From Compressed‐Sensing to Deep Learning MR: Comparative Biventricular Cardiac Function Analysis in a Patient Cohort",
+    "authors": [
+      "Xianghu Yan",
+      "Yi Luo",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Qi Liu",
+      "Lixian Zou",
+      "Yuwei Bao",
+      "Lu Huang",
+      "Liming Xia"
+    ],
+    "date": "2023-07-12",
+    "journal": "Journal of Magnetic Resonance Imaging",
+    "paperUrl": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.28899",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:3s1wT3WcHBgC",
+        "date": "2023/7/12",
+        "journal": "Journal of Magnetic Resonance Imaging"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-pqnbt2bcn3wc",
+    "title": "An unsupervised framework for joint mri super resolution and gibbs artifact removal",
+    "authors": [
+      "Yikang Liu",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2023-06-08",
+    "journal": "International Conference on Information Processing in Medical Imaging",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-34048-2_31",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:pqnbT2bcN3wC",
+        "date": "2023/6/8",
+        "journal": "International Conference on Information Processing in Medical Imaging"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-ns9cj8rnveac",
+    "title": "Truncated rank-based tests for two-part models with excessive zeros and applications to microbiome data",
+    "authors": [
+      "Wanjie Wang",
+      "Eric Chen",
+      "Hongzhe Li"
+    ],
+    "date": "2023-06",
+    "journal": "The Annals of Applied Statistics",
+    "paperUrl": "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-2/Truncated-rank-based-tests-for-two-part-models-with-excessive/10.1214/22-AOAS1688.short",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:ns9cj8rnVeAC",
+        "date": "2023/6",
+        "journal": "The Annals of Applied Statistics"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-hob7mx3m0luc",
+    "title": "Dynamic MLP for MRI Reconstruction",
+    "authors": [
+      "Chi Zhang",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Yikang Liu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2023-01-21",
+    "journal": "arXiv preprint arXiv:2301.08868",
+    "paperUrl": "https://scholar.google.com/scholar?cluster=11453412303917859314&hl=en&oi=scholarr",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:HoB7MX3m0LUC",
+        "date": "2023/1/21",
+        "journal": "arXiv preprint arXiv:2301.08868"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-2p1l_qkh6hac",
+    "title": "Holistic Multi-Slice Framework for Dynamic Simultaneous Multi-Slice MRI Reconstruction",
+    "authors": [
+      "Daniel H Pak",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Yikang Liu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2023-01-03",
+    "journal": "arXiv preprint arXiv:2301.01355",
+    "paperUrl": "https://arxiv.org/abs/2301.01355",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:2P1L_qKh6hAC",
+        "date": "2023/1/3",
+        "journal": "arXiv preprint arXiv:2301.01355"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-yd5ifk8b50cc",
+    "title": "Deep learning acceleration and reconstruction for single-channel signals",
+    "authors": [
+      "Yongquan Ye",
+      "Zhongqi Zhang",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Shanhui Sun",
+      "Jian Xu"
+    ],
+    "date": "2023",
+    "journal": "the annual meeting of ISMRM. Toronto, ON, Canada.[Google Scholar]",
+    "paperUrl": "https://archive.ismrm.org/2023/4040.html",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:yD5IFk8b50cC",
+        "date": "2023",
+        "journal": "the annual meeting of ISMRM. Toronto, ON, Canada.[Google Scholar]"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-cfhs6hbyz2cc",
+    "title": "Real-time MRI using deep learning in gastroesophageal reflux disease: a feasibility study",
+    "authors": [
+      "Qing Liu",
+      "Qi Liu",
+      "Jing Li",
+      "Eric Z Chen",
+      "Zhongqi Zhang",
+      "Xiao Chen",
+      "Shanhui Sun",
+      "Jian Xu",
+      "Haoran Sun"
+    ],
+    "date": "2023",
+    "journal": "ISMRM Annual Meeting, Abstract 0505",
+    "paperUrl": "https://archive.ismrm.org/2023/0505.html",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:cFHS6HbyZ2cC",
+        "date": "",
+        "journal": ""
+      },
+      {
+        "url": "https://archive.ismrm.org/2023/0505.html",
+        "date": "2023",
+        "journal": "ISMRM Annual Meeting, Abstract 0505"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-j_g5lzvafswc",
+    "title": "Robust Landmark-Based Stent Tracking in X-ray Fluoroscopy",
+    "authors": [
+      "Luojie Huang",
+      "Yikang Liu",
+      "Li Chen",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2022-10-23",
+    "journal": "European Conference on Computer Vision",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-20047-2_12",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:J_g5lzvAfSwC",
+        "date": "2022/10/23",
+        "journal": "European Conference on Computer Vision"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-70eg2saeizsc",
+    "title": "JoJoNet: Joint-contrast and Joint-sampling-and-reconstruction Network for Multi-contrast MRI",
+    "authors": [
+      "Lin Zhao",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Yikang Liu",
+      "Dinggang Shen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2022-10-22",
+    "journal": "arXiv preprint arXiv:2210.12548",
+    "paperUrl": "https://arxiv.org/abs/2210.12548",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:70eg2SAEIzsC",
+        "date": "2022/10/22",
+        "journal": "arXiv preprint arXiv:2210.12548"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-lsltfrupkqcc",
+    "title": "Flow-Based Visual Quality Enhancer for Super-Resolution Magnetic Resonance Spectroscopic Imaging",
+    "authors": [
+      "Siyuan Dong",
+      "Gilbert Hangel",
+      "Eric Z Chen",
+      "Shanhui Sun",
+      "Wolfgang Bogner",
+      "Georg Widhalm",
+      "Chenyu You",
+      "John A Onofrey",
+      "Robin de Graaf",
+      "James S Duncan"
+    ],
+    "date": "2022-09-22",
+    "journal": "MICCAI Workshop on Deep Generative Models",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-18576-2_1",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:lSLTfruPkqcC",
+        "date": "2022/9/22",
+        "journal": "MICCAI Workshop on Deep Generative Models"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-nagl4sejco4c",
+    "title": "Invertible sharpening network for MRI reconstruction enhancement",
+    "authors": [
+      "Siyuan Dong",
+      "Eric Z Chen",
+      "Lin Zhao",
+      "Xiao Chen",
+      "Yikang Liu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2022-09-17",
+    "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-031-16446-0_55",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:NaGl4SEjCO4C",
+        "date": "2022/9/17",
+        "journal": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-ryck_ylvtxyc",
+    "title": "Deep Statistic Shape Model for Myocardium Segmentation",
+    "authors": [
+      "Xiaoling Hu",
+      "Xiao Chen",
+      "Yikang Liu",
+      "Eric Z Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2022-07-21",
+    "journal": "arXiv preprint arXiv:2207.10607",
+    "paperUrl": "https://arxiv.org/abs/2207.10607",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:RYcK_YlVTxYC",
+        "date": "2022/7/21",
+        "journal": "arXiv preprint arXiv:2207.10607"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-4oulz7gr8rgc",
+    "title": "Toward clinically applicable 3-dimensional tooth segmentation via deep learning",
+    "authors": [
+      "J Hao",
+      "W Liao",
+      "YL Zhang",
+      "J Peng",
+      "Z Zhao",
+      "Z Chen",
+      "BW Zhou",
+      "Y Feng",
+      "B Fang",
+      "ZZ Liu",
+      "ZH Zhao"
+    ],
+    "date": "2022-03",
+    "journal": "Journal of dental research",
+    "paperUrl": "https://journals.sagepub.com/doi/abs/10.1177/00220345211040459",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:4OULZ7Gr8RgC",
+        "date": "2022/3",
+        "journal": "Journal of dental research"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-rgfaldjalmkc",
+    "title": "Pyramid convolutional RNN for MRI image reconstruction",
+    "authors": [
+      "Eric Z Chen",
+      "Puyang Wang",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2022-02-22",
+    "journal": "IEEE Transactions on Medical Imaging",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/9718239/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:RGFaLdJalmkC",
+        "date": "2022/2/22",
+        "journal": "IEEE Transactions on Medical Imaging"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-35n4qogy0k4c",
+    "title": "Cascaded parallel imaging for 3D deep learning reconstruction",
+    "authors": [
+      "Jingyuan Lyu",
+      "Yongquan Ye",
+      "Zhongqi Zhang",
+      "Jian Xu",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Shanhui Sun",
+      "Eric Z Chen"
+    ],
+    "date": "2022",
+    "journal": "ISMRM",
+    "paperUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:35N4QoGY0k4C",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:35N4QoGY0k4C",
+        "date": "2022",
+        "journal": "ISMRM"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-vv6vv6tmywmc",
+    "title": "Accelerated Multiband Cine Cardiac Magnetic Resonance Imaging using Deep Learning",
+    "authors": [
+      "Xiao Chen",
+      "Yuan Zheng",
+      "Eric Z Chen",
+      "Zhongqi Zhang",
+      "Yu Ding",
+      "Jian Xu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2022",
+    "journal": "ISMRM",
+    "paperUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:vV6vV6tmYwMC",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:vV6vV6tmYwMC",
+        "date": "2022",
+        "journal": "ISMRM"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-nmxildl6lwmc",
+    "title": "Accelerating 3D MULTIPLEX MRI Reconstruction with Deep Learning",
+    "authors": [
+      "Eric Z Chen",
+      "Yongquan Ye",
+      "Xiao Chen",
+      "Jingyuan Lyu",
+      "Zhongqi Zhang",
+      "Yichen Hu",
+      "Terrence Chen",
+      "Jian Xu",
+      "Shanhui Sun"
+    ],
+    "date": "2021-05-17",
+    "journal": "arXiv preprint arXiv:2105.08163",
+    "paperUrl": "https://arxiv.org/abs/2105.08163",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:NMxIlDl6LWMC",
+        "date": "2021/5/17",
+        "journal": "arXiv preprint arXiv:2105.08163"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-hmod-77fhwuc",
+    "title": "Cardiac Functional Analysis with Cine MRI via Deep Learning Reconstruction",
+    "authors": [
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Jingyuan Lyu",
+      "Qi Liu",
+      "Zhongqi Zhang",
+      "Yu Ding",
+      "Shuheng Zhang",
+      "Terrence Chen",
+      "Jian Xu",
+      "Shanhui Sun"
+    ],
+    "date": "2021-05-17",
+    "journal": "arXiv preprint arXiv:2105.08157",
+    "paperUrl": "https://arxiv.org/abs/2105.08157",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:hMod-77fHWUC",
+        "date": "2021/5/17",
+        "journal": "arXiv preprint arXiv:2105.08157"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-yfjsv_pbgbyc",
+    "title": "Multi-scale neural odes for 3d medical image registration",
+    "authors": [
+      "Junshen Xu",
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2021",
+    "journal": "Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-030-87202-1_21",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:YFjsv_pBGBYC",
+        "date": "2021",
+        "journal": "Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV 24"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-o3naxmp0mmsc",
+    "title": "Evaluation of the robustness of learned MR image reconstruction to systematic deviations between training and test data for the models from the fastMRI challenge",
+    "authors": [
+      "Patricia M Johnson",
+      "Geunu Jeong",
+      "Kerstin Hammernik",
+      "Jo Schlemper",
+      "Chen Qin",
+      "Jinming Duan",
+      "Daniel Rueckert",
+      "Jingu Lee",
+      "Nicola Pezzotti",
+      "Elwin De Weerdt",
+      "Sahar Yousefi",
+      "Mohamed S Elmahdy",
+      "Jeroen Hendrikus Franciscus Van Gemert",
+      "Christophe Schülke",
+      "Mariya Doneva",
+      "Tim Nielsen",
+      "Sergey Kastryulin",
+      "Boudewijn PF Lelieveldt",
+      "Matthias JP Van Osch",
+      "Marius Staring",
+      "Eric Z Chen",
+      "Puyang Wang",
+      "Xiao Chen",
+      "Terrence Chen",
+      "Vishal M Patel",
+      "Shanhui Sun",
+      "Hyungseob Shin",
+      "Yohan Jun",
+      "Taejoon Eo",
+      "Sewon Kim",
+      "Taeseong Kim",
+      "Dosik Hwang",
+      "Patrick Putzky",
+      "Dimitrios Karkalousos",
+      "Jonas Teuwen",
+      "Nikita Miriakov",
+      "Bart Bakker",
+      "Matthan Caan",
+      "Max Welling",
+      "Matthew J Muckley",
+      "Florian Knoll"
+    ],
+    "date": "2021",
+    "journal": "Machine Learning for Medical Image Reconstruction: 4th International Workshop, MLMIR 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, October 1, 2021, Proceedings 4",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-030-88552-6_3",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:O3NaXMp0MMsC",
+        "date": "2021",
+        "journal": "Machine Learning for Medical Image Reconstruction: 4th International Workshop, MLMIR 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, October 1, 2021, Proceedings 4"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-mazdtakrznsc",
+    "title": "Measure Anatomical Thickness from Cardiac MRI with Deep Neural Networks",
+    "authors": [
+      "Qiaoying Huang",
+      "Eric Z Chen",
+      "Hanchao Yu",
+      "Yimo Guo",
+      "Terrence Chen",
+      "Dimitris Metaxas",
+      "Shanhui Sun"
+    ],
+    "date": "2021",
+    "journal": "Statistical Atlases and Computational Models of the Heart. M&Ms and EMIDEC Challenges: 11th International Workshop, STACOM 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4, 2020, Revised Selected Papers 11",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-030-68107-4_5",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:maZDTaKrznsC",
+        "date": "2021",
+        "journal": "Statistical Atlases and Computational Models of the Heart. M&Ms and EMIDEC Challenges: 11th International Workshop, STACOM 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4, 2020, Revised Selected Papers 11"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-dfsifkjdrg4c",
+    "title": "Clinically applicable system for 3D teeth segmentation in intraoral scans using deep learning",
+    "authors": [
+      "Jin Hao",
+      "Wen Liao",
+      "Yueling Zhang",
+      "Peilin Li",
+      "Jianru Yi",
+      "Jerry Peng",
+      "Zeu Zhao",
+      "Zhang Chen",
+      "Wenxuan Shi",
+      "Tingyu Chen",
+      "Bowen Zhou",
+      "Yang Feng",
+      "Bing Fang",
+      "Haoji Hu",
+      "Howard Yang",
+      "Erping Li",
+      "Zuozhu Liu",
+      "Zhihe Zhao"
+    ],
+    "date": "2020-11-10",
+    "journal": "",
+    "paperUrl": "https://assets-eu.researchsquare.com/files/rs-103285/v1_covered.pdf",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:dfsIfKJdRG4C",
+        "date": "2020/11/10",
+        "journal": ""
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-m3nemzrmikic",
+    "title": "Mitochondrial dysfunction in inflammatory bowel disease alters intestinal epithelial metabolism of hepatic acylcarnitines",
+    "authors": [
+      "Sarah A Smith",
+      "Sayaka A Ogawa",
+      "Lillian Chau",
+      "Kelly A Whelan",
+      "Kathryn E Hamilton",
+      "Jie Chen",
+      "Lu Tan",
+      "Eric Z Chen",
+      "Sue Keilbaugh",
+      "Franz Fogt",
+      "Meenakshi Bewtra",
+      "Jonathan Braun",
+      "Ramnik J Xavier",
+      "Clary B Clish",
+      "Barry Slaff",
+      "Aalim M Weljie",
+      "Frederic D Bushman",
+      "James D Lewis",
+      "Hongzhe Li",
+      "Stephen R Master",
+      "Michael J Bennett",
+      "Hiroshi Nakagawa",
+      "Gary D Wu"
+    ],
+    "date": "2020-11-03",
+    "journal": "The Journal of Clinical Investigation",
+    "paperUrl": "https://www.jci.org/articles/view/133371",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:M3NEmzRMIkIC",
+        "date": "2020/11/3",
+        "journal": "The Journal of Clinical Investigation"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-nhqrsupf_l8c",
+    "title": "Anatomy-Aware Cardiac Motion",
+    "authors": [
+      "Pingjun Chen",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Hanchao Yu"
+    ],
+    "date": "2020-10-02",
+    "journal": "Machine Learning in Medical Imaging: 11th International Workshop, MLMI 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4, 2020, Proceedings",
+    "paperUrl": "https://books.google.com/books?hl=en&lr=&id=mbcAEAAAQBAJ&oi=fnd&pg=PA150&dq=info:AuvJWyMsz0sJ:scholar.google.com&ots=8w6erE7dF5&sig=6jygjZNeoo2n9jNkOhRWPJ6-Jsk",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:NhqRSupF_l8C",
+        "date": "2020/10/2",
+        "journal": "Machine Learning in Medical Imaging: 11th International Workshop, MLMI 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4, 2020, Proceedings"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-k_ijm867u9cc",
+    "title": "Anatomy-aware cardiac motion estimation",
+    "authors": [
+      "Pingjun Chen",
+      "Xiao Chen",
+      "Eric Z Chen",
+      "Hanchao Yu",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2020-09-29",
+    "journal": "International workshop on machine learning in medical imaging",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-030-59861-7_16",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:k_IJM867U9cC",
+        "date": "2020/9/29",
+        "journal": "International workshop on machine learning in medical imaging"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-isc4tdsrtzic",
+    "title": "Real-Time Cardiac Cine MRI with Residual Convolutional Recurrent Neural Network",
+    "authors": [
+      "Eric Z Chen",
+      "Xiao Chen",
+      "Jingyuan Lyu",
+      "Yuan Zheng",
+      "Terrence Chen",
+      "Jian Xu",
+      "Shanhui Sun"
+    ],
+    "date": "2020-08-12",
+    "journal": "arXiv preprint arXiv:2008.05044; ISMRM",
+    "paperUrl": "https://arxiv.org/abs/2008.05044",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:isC4tDSrTZIC",
+        "date": "2020/8/12",
+        "journal": "arXiv preprint arXiv:2008.05044"
+      },
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:blknAaTinKkC",
+        "date": "2020",
+        "journal": "ISMRM"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-r0bpntzqjg4c",
+    "title": "MRI image reconstruction via learning optimization using neural ODEs",
+    "authors": [
+      "Eric Z Chen",
+      "Terrence Chen",
+      "Shanhui Sun"
+    ],
+    "date": "2020",
+    "journal": "Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part II 23",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-030-59713-9_9",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:r0BpntZqJG4C",
+        "date": "2020",
+        "journal": "Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part II 23"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-dhfuzr0502qc",
+    "title": "Pyramid convolutional RNN for MRI reconstruction",
+    "authors": [
+      "Puyang Wang",
+      "Eric Z Chen",
+      "Terrence Chen",
+      "Vishal M Patel",
+      "Shanhui Sun"
+    ],
+    "date": "2019-12",
+    "journal": "arXiv preprint arXiv:1912.00543",
+    "paperUrl": "https://www.researchgate.net/profile/Puyang-Wang-2/publication/337702951_Pyramid_Convolutional_RNN_for_MRI_Reconstruction/links/5f4433b7299bf13404eef2ce/Pyramid-Convolutional-RNN-for-MRI-Reconstruction.pdf",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:dhFuZR0502QC",
+        "date": "2019/12",
+        "journal": "arXiv preprint arXiv:1912.00543"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-9zlfyxvoiumc",
+    "title": "Skin Lesion Segmentation with C-UNet",
+    "authors": [
+      "Junyan Wu",
+      "Eric Z Chen",
+      "Ruichen Rong",
+      "Xiaoxiao Li",
+      "Dong Xu",
+      "Hongda Jiang"
+    ],
+    "date": "2019-07-23",
+    "journal": "2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/8857773/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:9ZlFYXVOiuMC",
+        "date": "2019/7/23",
+        "journal": "2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-mvmsd5a6bfqc",
+    "title": "From Deep Learning Towards Finding Skin Lesion Biomarkers",
+    "authors": [
+      "Xiaoxiao Li",
+      "Junyan Wu",
+      "Eric Z Chen",
+      "Hongda Jiang"
+    ],
+    "date": "2019-07-23",
+    "journal": "2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/8857334/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:mVmsd5A6BfQC",
+        "date": "2019/7/23",
+        "journal": "2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "20-biorxiv",
+    "title": "Lesion Attributes Segmentation for Melanoma Detection with Multi-Task U-Net",
+    "authors": [
+      "Eric Z Chen",
+      "Xu Dong",
+      "Xiaoxiao Li",
+      "Hongda Jiang",
+      "Ruichen Rong",
+      "Junyan Wu"
+    ],
+    "date": "2019-04-08",
+    "journal": "2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/8759483/",
+    "codeUrl": "https://github.com/chvlyl/ISIC2018",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:Wp0gIr-vW9MC",
+        "date": "2019/4/8",
+        "journal": "2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-qiv2me_5wuyc",
+    "title": "Weakly-and semi-supervised graph CNN for identifying basal cell carcinoma on pathological images",
+    "authors": [
+      "Junyan Wu",
+      "Jia-Xing Zhong",
+      "Eric Z Chen",
+      "Jingwei Zhang",
+      "Jay J Ye",
+      "Limin Yu"
+    ],
+    "date": "2019",
+    "journal": "Graph Learning in Medical Imaging: First International Workshop, GLMI 2019, Held in Conjunction with MICCAI 2019, Shenzhen, China, October 17, 2019, Proceedings 1",
+    "paperUrl": "https://link.springer.com/chapter/10.1007/978-3-030-35817-4_14",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:QIV2ME_5wuYC",
+        "date": "2019",
+        "journal": "Graph Learning in Medical Imaging: First International Workshop, GLMI 2019, Held in Conjunction with MICCAI 2019, Shenzhen, China, October 17, 2019, Proceedings 1"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-bqipwsgyuegc",
+    "title": "Graph Learning in Medical Imaging",
+    "authors": [
+      "Junyan Wu",
+      "Jia-Xing Zhong",
+      "Eric Z Chen",
+      "Jingwei Zhang",
+      "Jay J Ye",
+      "Limin Yu"
+    ],
+    "date": "2019",
+    "journal": "",
+    "paperUrl": "https://scholarlyworks.corewellhealth.org/pathology_laboratory_medicine_books/1/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:BqipwSGYUEgC",
+        "date": "2019",
+        "journal": ""
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "21-arxiv",
+    "title": "What evidence does deep learning model use to classify Skin Lesions?",
+    "authors": [
+      "Xiaoxiao Li",
+      "Junyan Wu",
+      "Eric Z Chen",
+      "Hongda Jiang"
+    ],
+    "date": "2018-11-02",
+    "journal": "arXiv preprint arXiv:1811.01051",
+    "paperUrl": "https://arxiv.org/abs/1811.01051",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:qxL8FJ1GzNcC",
+        "date": "2018/11/2",
+        "journal": "arXiv preprint arXiv:1811.01051"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "18-biorxiv",
+    "title": "Skin Lesion Classification Via Combining Deep Learning Features and Clinical Criteria Representations",
+    "authors": [
+      "Xiaoxiao Li",
+      "Junyan Wu",
+      "Hongda Jiang",
+      "Eric Z Chen",
+      "Xu Dong",
+      "Ruichen Rong"
+    ],
+    "date": "2018-01-01",
+    "journal": "bioRxiv",
+    "paperUrl": "https://www.biorxiv.org/content/10.1101/382010.abstract",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:_kc_bZDykSQC",
+        "date": "2018/1/1",
+        "journal": "bioRxiv"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "19-biorxiv",
+    "title": "Skin Lesion Segmentation with Improved C-UNet Networks",
+    "authors": [
+      "Hongda Jiang",
+      "Ruichen Rong",
+      "Junyan Wu",
+      "Xiaoxiao Li",
+      "Xu Dong",
+      "Eric Z Chen"
+    ],
+    "date": "2018-01-01",
+    "journal": "bioRxiv",
+    "paperUrl": "https://www.biorxiv.org/content/10.1101/382549.abstract",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:4TOpqqG69KYC",
+        "date": "2018/1/1",
+        "journal": "bioRxiv"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "scholar-m3ejud6nzc8c",
+    "title": "Lesion Attributes Segmentation for Melanoma Detection with Deep Learning",
+    "authors": [
+      "Eric Z Chen",
+      "Xu Dong",
+      "Junyan Wu",
+      "Hongda Jiang",
+      "Xiaoxiao Li",
+      "Ruichen Rong"
+    ],
+    "date": "2018-01-01",
+    "journal": "bioRxiv",
+    "paperUrl": "https://www.biorxiv.org/content/10.1101/381855.abstract",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:M3ejUd6NZC8C",
+        "date": "2018/1/1",
+        "journal": "bioRxiv"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "17-science-translational-medicine",
+    "title": "A role for bacterial urease in gut dysbiosis and Crohn’s disease",
+    "authors": [
+      "Josephine Ni",
+      "Ting-Chin David Shen",
+      "Eric Z Chen",
+      "Kyle Bittinger",
+      "Aubrey Bailey",
+      "Manuela Roggiani",
+      "Alexandra Sirota-Madi",
+      "Elliot S Friedman",
+      "Lillian Chau",
+      "Andrew Lin",
+      "Ilana Nissim",
+      "Justin Scott",
+      "Abigail Lauder",
+      "Christopher Hoffmann",
+      "Gloriany Rivas",
+      "Lindsey Albenberg",
+      "Robert N Baldassano",
+      "Jonathan Braun",
+      "Ramnik J Xavier",
+      "Clary B Clish",
+      "Marc Yudkoff",
+      "Hongzhe Li",
+      "Mark Goulian",
+      "Frederic D Bushman",
+      "James D Lewis",
+      "Gary D Wu"
+    ],
+    "date": "2017-11-15",
+    "journal": "Science Translational Medicine",
+    "paperUrl": "https://www.science.org/doi/abs/10.1126/scitranslmed.aah6888",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:3fE2CSJIrl8C",
+        "date": "2017/11/15",
+        "journal": "Science Translational Medicine"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "16-statistics-in-biosciences",
+    "title": "A model-based approach for species abundance quantification based on shotgun metagenomic data",
+    "authors": [
+      "Eric Z Chen",
+      "Frederic D Bushman",
+      "Hongzhe Li"
+    ],
+    "date": "2017-06",
+    "journal": "Statistics in biosciences",
+    "paperUrl": "https://link.springer.com/article/10.1007/s12561-016-9148-x",
+    "codeUrl": "https://github.com/chvlyl/MSSQ",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:8k81kl-MbHgC",
+        "date": "2017/6",
+        "journal": "Statistics in biosciences"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "15-bioinformatics",
+    "title": "A two-part mixed-effects model for analyzing longitudinal microbiome compositional data",
+    "authors": [
+      "Eric Z Chen",
+      "Hongzhe Li"
+    ],
+    "date": "2016-05-14",
+    "journal": "Bioinformatics",
+    "paperUrl": "https://academic.oup.com/bioinformatics/article-abstract/32/17/2611/2450750",
+    "codeUrl": "https://github.com/chvlyl/ZIBR",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:5nxA0vEk-isC",
+        "date": "2016/5/14",
+        "journal": "Bioinformatics"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "11-gut",
+    "title": "Comparative metabolomics in vegans and omnivores reveal constraints on diet-dependent gut microbiota metabolite production",
+    "authors": [
+      "Gary D Wu",
+      "Charlene Compher",
+      "Eric Z Chen",
+      "Sarah A Smith",
+      "Rachana D Shah",
+      "Kyle Bittinger",
+      "Christel Chehoud",
+      "Lindsey G Albenberg",
+      "Lisa Nessel",
+      "Erin Gilroy",
+      "Julie Star",
+      "Aalim M Weljie",
+      "Harry J Flint",
+      "David C Metz",
+      "Michael J Bennett",
+      "Hongzhe Li",
+      "Frederic D Bushman",
+      "James D Lewis"
+    ],
+    "date": "2016-01-01",
+    "journal": "Gut",
+    "paperUrl": "https://gut.bmj.com/content/65/1/63.short",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:_FxGoFyzp5QC",
+        "date": "2016/1/1",
+        "journal": "Gut"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "14-cell-host-microbe",
+    "title": "Inflammation, Antibiotics, and Diet as Environmental Stressors of the Gut Microbiome in Pediatric Crohn’s Disease",
+    "authors": [
+      "James D Lewis",
+      "Eric Z Chen",
+      "Robert N Baldassano",
+      "Anthony R Otley",
+      "Anne M Griffiths",
+      "Dale Lee",
+      "Kyle Bittinger",
+      "Aubrey Bailey",
+      "Elliot S Friedman",
+      "Christian Hoffmann",
+      "Lindsey Albenberg",
+      "Rohini Sinha",
+      "Charlene Compher",
+      "Erin Gilroy",
+      "Lisa Nessel",
+      "Amy Grant",
+      "Christel Chehoud",
+      "Hongzhe Li",
+      "Gary D Wu",
+      "Frederic D Bushman"
+    ],
+    "date": "2015-10-14",
+    "journal": "Cell Host & Microbe",
+    "paperUrl": "https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(15)00377-7",
+    "codeUrl": "https://github.com/chvlyl/PLEASE",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:hqOjcs7Dif8C",
+        "date": "2015/10/14",
+        "journal": "Cell Host & Microbe"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "13-inflammatory-bowel-diseases",
+    "title": "Comparative Effectiveness of Nutritional and Biological Therapy in North American Children with Active Crohn's Disease",
+    "authors": [
+      "Dale Lee",
+      "Robert N Baldassano",
+      "Anthony R Otley",
+      "Lindsey Albenberg",
+      "Anne M Griffiths",
+      "Charlene Compher",
+      "Eric Z Chen",
+      "Hongzhe Li",
+      "Erin Gilroy",
+      "Lisa Nessel",
+      "Amy Grant",
+      "Christel Chehoud",
+      "Frederic D Bushman",
+      "Gary D Wu",
+      "James D Lewis"
+    ],
+    "date": "2015-08-01",
+    "journal": "Inflammatory bowel diseases",
+    "paperUrl": "https://academic.oup.com/ibdjournal/article-abstract/21/8/1786/4602917",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:0EnyYjriUFMC",
+        "date": "2015/8/1",
+        "journal": "Inflammatory bowel diseases"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "12-plos-one",
+    "title": "Genome Wide Nucleosome Mapping for HSV-1 Shows Nucleosomes Are Deposited at Preferred Positions during Lytic Infection.",
+    "authors": [
+      "J Oh",
+      "IF Sanders",
+      "EZ Chen",
+      "H Li",
+      "JW Tobias",
+      "RB Isett",
+      "S Penubarthi",
+      "H Sun",
+      "DA Baldwin",
+      "NW Fraser"
+    ],
+    "date": "2015-02-24",
+    "journal": "PloS one",
+    "paperUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117471",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:roLk4NBRz8UC",
+        "date": "2015/2/24",
+        "journal": "PloS one"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "10-j-mol-cell-biol",
+    "title": "Genome-wide roles of Foxa2 in directing liver specification",
+    "authors": [
+      "Chenhuan Xu",
+      "Xiaowen Lu",
+      "Eric Z Chen",
+      "Zhiying He",
+      "Borjigin Uyunbilig",
+      "Guangpeng Li",
+      "Yue Ma",
+      "Lijian Hui",
+      "Bin Xie",
+      "Yuan Gao",
+      "Xiaoyan Ding",
+      "Yiping Hu",
+      "Ping Hu",
+      "Jing-Dong J Han",
+      "Xin Wang"
+    ],
+    "date": "2012-12-01",
+    "journal": "Journal of molecular cell biology",
+    "paperUrl": "https://academic.oup.com/jmcb/article-abstract/4/6/420/849686",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:Tyk-4Ss8FVUC",
+        "date": "2012/12/1",
+        "journal": "Journal of molecular cell biology"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "6-clin-chem",
+    "title": "Nonhematopoietically derived DNA is shorter than hematopoietically derived DNA in plasma: a transplantation model",
+    "authors": [
+      "Yama WL Zheng",
+      "KC Allen Chan",
+      "Hao Sun",
+      "Peiyong Jiang",
+      "Xiaoxi Su",
+      "Eric Z Chen",
+      "Fiona MF Lun",
+      "Emily CW Hung",
+      "Vincent Lee",
+      "John Wong",
+      "Paul BS Lai",
+      "Chi-Kong Li",
+      "Rossa WK Chiu",
+      "YM Dennis Lo"
+    ],
+    "date": "2012-03-01",
+    "journal": "Clinical chemistry",
+    "paperUrl": "https://academic.oup.com/clinchem/article-abstract/58/3/549/5620570",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:2osOgNQ5qMEC",
+        "date": "2012/3/1",
+        "journal": "Clinical chemistry"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "9-plos-one",
+    "title": "A Novel YY1-miR-1 Regulatory Circuit in Skeletal Myogenesis Revealed by Genome-Wide Prediction of YY1-miRNA Network",
+    "authors": [
+      "Leina Lu",
+      "Liang Zhou",
+      "Eric Z Chen",
+      "Kun Sun",
+      "Peiyong Jiang",
+      "Lijun Wang",
+      "Xiaoxi Su",
+      "Hao Sun",
+      "Huating Wang"
+    ],
+    "date": "2012-02-01",
+    "journal": "PLoS ONE",
+    "paperUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027596",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:zYLM7Y9cAGgC",
+        "date": "2012/2/1",
+        "journal": "PLoS ONE"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "8-ieee-bibmw",
+    "title": "Genome-wide identification of TF-miRNA regulatory networks in myogenesis",
+    "authors": [
+      "Leina Lu",
+      "Liang Zhou",
+      "Eric Z Chen",
+      "Kun Sun",
+      "Peiyong Jiang",
+      "Susie Su",
+      "Lijun Wang",
+      "Hao Sun",
+      "Huating Wang"
+    ],
+    "date": "2011-11-12",
+    "journal": "2011 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBMW)",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/6112512/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:YsMSGLbcyi4C",
+        "date": "2011/11/12",
+        "journal": "2011 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBMW)"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "5-plos-one",
+    "title": "Noninvasive prenatal diagnosis of fetal trisomy 18 and trisomy 13 by maternal plasma DNA sequencing",
+    "authors": [
+      "Eric Z Chen",
+      "Rossa WK Chiu",
+      "Hao Sun",
+      "Ranjit Akolekar",
+      "KC Allen Chan",
+      "Tak Y Leung",
+      "Peiyong Jiang",
+      "Yama WL Zheng",
+      "Fiona MF Lun",
+      "Lisa YS Chan",
+      "Yongjie Jin",
+      "Attie TJI Go",
+      "Elizabeth T Lau",
+      "William WK To",
+      "Wing C Leung",
+      "Rebecca YK Tang",
+      "Sidney KC Au-Yeung",
+      "Helena Lam",
+      "Yu Y Kung",
+      "Xiuqing Zhang",
+      "John MG van Vugt",
+      "Ryoko Minekawa",
+      "Mary HY Tang",
+      "Jun Wang",
+      "Cees BM Oudejans",
+      "Tze K Lau",
+      "Kypros H Nicolaides",
+      "YM Dennis Lo"
+    ],
+    "date": "2011-07-06",
+    "journal": "PloS one",
+    "paperUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0021791",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:u-x6o8ySG0sC",
+        "date": "2011/7/6",
+        "journal": "PloS one"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "4-plos-one",
+    "title": "SFRS7-mediated splicing of tau exon 10 is directly regulated by STOX1A in glial cells",
+    "authors": [
+      "Daan Van Abel",
+      "Dennis R Hölzel",
+      "Shushant Jain",
+      "Fiona MF Lun",
+      "Yama WL Zheng",
+      "Eric Z Chen",
+      "Hao Sun",
+      "Rossa WK Chiu",
+      "YM Dennis Lo",
+      "Marie Van Dijk",
+      "Cees BM Oudejans"
+    ],
+    "date": "2011-07-06",
+    "journal": "PloS one",
+    "paperUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0021994",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:d1gkVwhDpl0C",
+        "date": "2011/7/6",
+        "journal": "PloS one"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "7-ieee-bibmw",
+    "title": "Methy-Pipe: an integrated bioinformatics data analysis pipeline for whole genome methylome analysis",
+    "authors": [
+      "Peiyong Jiang",
+      "Xiaoxi Sun",
+      "Eric Z Chen",
+      "Kun Sun",
+      "Rossa WK Chiu",
+      "YM Dennis Lo",
+      "Hao Sun"
+    ],
+    "date": "2010-12-18",
+    "journal": "2010 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBMW)",
+    "paperUrl": "https://ieeexplore.ieee.org/abstract/document/5703866/",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:eQOLeE2rZwMC",
+        "date": "2010/12/18",
+        "journal": "2010 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBMW)"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "3-sci-transl-med",
+    "title": "Maternal plasma DNA sequencing reveals the genome-wide genetic and mutational profile of the fetus",
+    "authors": [
+      "YM Dennis Lo",
+      "KC Allen Chan",
+      "Hao Sun",
+      "Eric Z Chen",
+      "Peiyong Jiang",
+      "Fiona MF Lun",
+      "Yama W Zheng",
+      "Tak Y Leung",
+      "Tze K Lau",
+      "Charles R Cantor",
+      "Rossa WK Chiu"
+    ],
+    "date": "2010-12-08",
+    "journal": "Science Translational Medicine",
+    "paperUrl": "https://www.science.org/doi/abs/10.1126/scitranslmed.3001720",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:u5HHmVD_uO8C",
+        "date": "2010/12/8",
+        "journal": "Science Translational Medicine"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "2-genome-res",
+    "title": "Genome-wide mapping of SMAD target genes reveals the role of BMP signaling in embryonic stem cell fate determination",
+    "authors": [
+      "Teng Fei",
+      "Kai Xia",
+      "Zhongwei Li",
+      "Bing Zhou",
+      "Shanshan Zhu",
+      "Hua Chen",
+      "Jianping Zhang",
+      "Zhang Chen",
+      "Huasheng Xiao",
+      "Jing-Dong J Han",
+      "Ye-Guang Chen"
+    ],
+    "date": "2010-01-01",
+    "journal": "Genome research",
+    "paperUrl": "https://genome.cshlp.org/content/20/1/36",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:qjMakFHDy7sC",
+        "date": "2010/1/1",
+        "journal": "Genome research"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  },
+  {
+    "slug": "1-developmental-systems-biology",
+    "title": "Developmental systems biology flourishing on new technologies",
+    "authors": [
+      "Jing-Dong J Han",
+      "Yi Liu",
+      "Huiling Xue",
+      "Kai Xia",
+      "Hong Yu",
+      "Shanshan Zhu",
+      "Zhang Chen",
+      "Wei Zhang",
+      "Zheng Huang",
+      "Chunyu Jin",
+      "Bo Xian",
+      "Jing Li",
+      "Lei Hou",
+      "Yixing Han",
+      "Chaoqun Niu",
+      "Timothy C Alcon"
+    ],
+    "date": "2008-10-31",
+    "journal": "Journal of Genetics and Genomics",
+    "paperUrl": "https://www.sciencedirect.com/science/article/pii/S1673852708600788",
+    "codeUrl": "",
+    "sources": [
+      {
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7mrZzpYAAAAJ&citation_for_view=7mrZzpYAAAAJ:W7OEmFMy1HYC",
+        "date": "2008/10/31",
+        "journal": "Journal of Genetics and Genomics"
+      }
+    ],
+    "checkedAt": "2026-10-02"
+  }
+]

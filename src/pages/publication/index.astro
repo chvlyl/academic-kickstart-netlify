@@ -1,0 +1,16 @@
+---
+const target = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/#publications`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={new URL(target, Astro.site)} />
+    <title>Publications | Eric Zhang Chen</title>
+  </head>
+  <body><p>Read the <a href={target}>publications on Eric Zhang Chen's homepage</a>.</p></body>
+</html>

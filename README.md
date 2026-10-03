@@ -1,57 +1,69 @@
-# How to update the website
-1. Modify the content in this repo
-2. Go to `https://app.netlify.com/` and choose `Deploy` then `Trigger deploy`
-3. The DNS is managed by netlify
+# Eric Zhang Chen's homepage
 
-# Academic Kickstart
+A minimal, single-page Astro website, published with GitHub Pages. The page presents About, Experience, Education, and Publications in that order. There is no blog or project section.
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
+## Local development
 
-**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
+Use Node.js 24 LTS (or a compatible version >=22.12.0).
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+```sh
+npm ci
+npm run dev
+```
 
-## Getting Started
+Open `http://localhost:4321`. Validate and preview the production build with:
 
-The following two methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
+```sh
+npm run check
+npm run build
+npm run preview
+```
 
-### Quick install using your web browser
+No environment file, database, external font service, or server adapter is required.
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://academic-demo.netlify.com/)
+## Editing content
 
-### Install on your PC
+| File | Content |
+| --- | --- |
+| `src/data/profile.json` | Biography, links, education, and experience |
+| `src/data/publications.json` | Publication records, ordered newest first |
+| `src/data/scholar.json` | Google Scholar source, verification date, and citation snapshot |
+| `src/pages/index.astro` | Single-page structure |
+| `src/components/Publication.astro` | Publication formatting |
+| `src/styles/global.css` | Typography, spacing, colors, and responsive layout |
 
-Prerequisites:
+All publications are displayed in one continuous list, ordered newest first. Links to older publication URLs redirect to the corresponding entry using native anchor navigation; no expansion step or client script is required.
 
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+Education was migrated from the previous website. The standalone Interests list was removed at the site owner’s request. The current position and five visible experience entries were updated on October 2, 2026 from the LinkedIn screenshot supplied by the site owner; dates preserve the months shown. Truncated responsibilities and experience entries outside the screenshot were not inferred. The biography uses the three-paragraph summary approved by the site owner, covering AI research, product development, mentorship, technical interests, and education. The introduction displays the name, biography, and social icons without a separate role/company line or portrait. The footer contains only a back-to-top link. Publications were updated from the public [Google Scholar profile](https://scholar.google.com/citations?user=7mrZzpYAAAAJ&hl=en) on October 2, 2026. Its 68 records produce 67 displayed entries: one identical-title, identical-author pair was combined, with both source references retained. Other preprint and conference versions remain separate, so this is not a count of distinct peer-reviewed papers. Each entry retains its Scholar source and verification date. The original 21 publication slugs and existing code links are preserved.
 
-1. Clone (or [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) or [download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip)) the *Academic Kickstart* repository with Git: 
+Dates retain the source's precision (year, month, or day). The two records missing dates and venues in Scholar were supplemented from their official ISMRM abstract pages: NAA (2025, Abstract 3984) and real-time MRI in gastroesophageal reflux disease (2023, Abstract 0505). Their original Scholar fields and the additional ISMRM sources are retained in the data. The citation snapshot is 6,200 total citations, h-index 23, and i10-index 36. Citation metrics are retained in the source snapshot rather than repeated in the biography. This is a manually verified snapshot, not a live Scholar integration. For future updates, edit the publication data and refresh the verification date and citation snapshot together.
 
-       git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork.*
+The original `content/`, `config/`, `static/`, and `themes/` directories are retained as migration references. Astro does not build them, and the Hugo theme submodule is not needed for development or deployment. Edit `src/data/` for the new website.
 
-2. Initialize the theme:
+## GitHub Pages
 
-       cd My_Website
-       git submodule update --init --recursive
+1. In this repository's **Settings > Pages**, choose **GitHub Actions** as the source.
+2. Push the reviewed changes to `astro-pages`. This dedicated deployment branch leaves the legacy `master` branch unchanged during the Netlify migration.
+3. The workflow checks the source, builds the static files, and deploys them.
 
-3. View your new website:
-      
-       hugo server
+The workflow reads the site's origin and base path from GitHub Pages. It supports both a project URL such as `https://chvlyl.github.io/academic-kickstart-netlify/` and a custom domain without hardcoding the repository name in page assets or redirects.
 
-    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
-  
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
+To validate a project-path build locally:
 
-## License
+```sh
+PAGES_SITE=https://chvlyl.github.io PAGES_BASE=/academic-kickstart-netlify npm run build
+PAGES_SITE=https://chvlyl.github.io PAGES_BASE=/academic-kickstart-netlify npm run preview
+```
 
-Copyright 2017 [George Cushen](https://georgecushen.com).
+For local builds without these variables, canonical URLs use `https://www.ericzchen.me` and assets use the root path. These variables are build-time settings supplied by the workflow or shell.
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+## Moving the custom domain
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+First verify the GitHub Pages deployment. Then configure the custom domain in the repository's Pages settings, update the corresponding DNS records, and rebuild so the workflow uses the new domain. If the domain is already assigned to another GitHub Pages repository, move that assignment to this repository.
+
+The old README stated that DNS was managed by Netlify. Website hosting and DNS are separate: changing the hosting does not move the DNS service. If moving DNS away from Netlify as well, preserve all existing DNS records, including any mail records, before changing nameservers. This code change does not modify DNS, GitHub settings, or the live Netlify site.
+
+Official references:
+
+- [Astro on GitHub Pages](https://docs.astro.build/en/guides/deploy/github/)
+- [Custom domains for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)

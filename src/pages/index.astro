@@ -1,0 +1,105 @@
+---
+import Publication from '../components/Publication.astro';
+import profile from '../data/profile.json';
+import publications from '../data/publications.json';
+import '../styles/global.css';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const canonical = new URL(base, Astro.site);
+const description = 'Eric Zhang Chen is a research scientist working on deep learning, biomedical imaging, electronic health records, and bioinformatics.';
+const scholar = profile.links.find((link) => link.label === 'Google Scholar')!;
+const socialIcons: Record<string, string> = {
+  Email: 'envelope',
+  'Google Scholar': 'google-scholar',
+  GitHub: 'github',
+  LinkedIn: 'linkedin',
+  Twitter: 'twitter',
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{profile.name}</title>
+    <meta name="description" content={description} />
+    <meta name="author" content={profile.name} />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={profile.name} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <main id="main" class="page">
+      <section id="about" class="about" aria-labelledby="name">
+        <div class="introduction">
+          <div class="introduction-text">
+            <h1 id="name">{profile.name}</h1>
+            <div class="biography">
+              {profile.biography.map((paragraph) => <p>{paragraph}</p>)}
+            </div>
+            <ul class="social-links" aria-label="Contact and profiles">
+              {profile.links.map((link) => (
+                <li>
+                  <a href={link.url} aria-label={link.label} title={link.label}>
+                    <span class="social-icon" aria-hidden="true" style={`--icon: url('${base}icons/${socialIcons[link.label]}.svg')`}></span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
+      </section>
+
+      <section id="experience" class="section" aria-labelledby="experience-heading">
+        <h2 id="experience-heading">Experience</h2>
+        <ol class="experience-list">
+          {profile.experience.map((job) => (
+            <li class="experience">
+              <p class="experience-period">{job.start} – {job.end || 'Present'}</p>
+              <div>
+                <h3>{job.title}</h3>
+                <p class="company">{job.company}</p>
+              </div>
+              <p class="location">{job.location}</p>
+            </li>
+          ))}
+        </ol>
+      </section>
+
+      <section id="education" class="section" aria-labelledby="education-heading">
+        <h2 id="education-heading">Education</h2>
+        <ul class="education">
+          {profile.education.map((course) => (
+            <li>
+              <div class="education-title"><h3>{course.degree}</h3><span>{course.year}</span></div>
+              <p>{course.institution}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section id="publications" class="section" aria-labelledby="publications-heading">
+        <div class="section-heading">
+          <h2 id="publications-heading">Publications</h2>
+          <a class="scholar-link" href={scholar.url}>More on Google Scholar</a>
+        </div>
+        <ol class="publication-list">
+          {publications.map((paper) => <Publication paper={paper} />)}
+        </ol>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="back-to-top" href="#about">Back to top</a>
+    </footer>
+
+  </body>
+</html>

@@ -1,0 +1,23 @@
+---
+import publications from '../../data/publications.json';
+
+export function getStaticPaths() {
+  return publications.map((paper) => ({ params: { slug: paper.slug } }));
+}
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + '/';
+const target = `${base}#paper-${Astro.params.slug}`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={new URL(target, Astro.site)} />
+    <title>Publication | Eric Zhang Chen</title>
+  </head>
+  <body><p>This publication is now on <a href={target}>Eric Zhang Chen's homepage</a>.</p></body>
+</html>

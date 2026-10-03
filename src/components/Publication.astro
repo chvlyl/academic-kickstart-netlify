@@ -1,0 +1,39 @@
+---
+interface Props {
+  paper: {
+    slug: string;
+    title: string;
+    authors: string[];
+    date: string;
+    journal: string;
+    paperUrl: string;
+    codeUrl: string;
+  };
+}
+
+const { paper } = Astro.props;
+---
+
+<li class="publication" id={`paper-${paper.slug}`}>
+  {paper.date ? <time class="publication-year" datetime={paper.date}>{paper.date.slice(0, 4)}</time> : <span class="publication-year" title="Publication date not listed on Google Scholar">n.d.</span>}
+  <div>
+    <h3 class="publication-title">
+      {paper.paperUrl ? <a href={paper.paperUrl}>{paper.title}</a> : paper.title}
+    </h3>
+    <p class="publication-authors">
+      {paper.authors.map((author, index) => (
+        <Fragment>
+          {index > 0 && ', '}
+          {['Chen EZ', 'EZ Chen', 'Eric Z Chen', 'Eric Zhang Chen', 'Eric Chen', 'Zhang Chen', 'Z Chen'].includes(author) ? <strong>{author}</strong> : author}
+        </Fragment>
+      ))}
+    </p>
+    <div class="publication-meta">
+      <span class="publication-journal">{paper.journal}</span>
+      <span class="publication-links">
+        {paper.paperUrl && <a href={paper.paperUrl} aria-label={`Read ${paper.title}`}>Paper</a>}
+        {paper.codeUrl && <a href={paper.codeUrl} aria-label={`Code for ${paper.title}`}>Code</a>}
+      </span>
+    </div>
+  </div>
+</li>
